@@ -9,7 +9,7 @@ I follow the paleo diet. The diet emphasizes whole, organic foods, while disrega
 
 Since I cook almost daily, you can see how I might find such an app useful.
 
-Creating the app allowed me to work on my web development skills. It was the [final project](https://cs50.harvard.edu/x/2020/project/) for [Harvard CS50](https://cs50.harvard.edu/x/2020/). 
+Creating the app allowed me to work on my web development skills. It was my [final project](https://cs50.harvard.edu/x/2020/project/) for [Harvard CS50](https://cs50.harvard.edu/x/2020/). 
 
 [Click here to watch a video demo of this app.](https://www.youtube.com/watch?v=yvhdFkytXWM)
 
