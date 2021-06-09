@@ -1,1 +1,69 @@
+/* Paleo Recipe Finder */
 
+/* Styles the HTML of the website. */
+
+/* Navbar. */
+nav .navbar-brand
+{
+    /* Size for brand. */
+    font-size: xx-large;
+}
+
+/* Forms. */
+main .form-control
+{
+    /* Center form controls. */
+    display: inline-block;
+
+    /* Override Bootstrap's 100% width for form controls. */
+    width: auto;
+}
+
+/* Main. */
+main
+{
+    /* Scroll horizontally as needed. */
+    overflow-x: auto;
+
+    /* Center contents. */
+    text-align: center;
+}
+
+/* Images. */
+main img
+{
+    /* Constrain images on small screens. */
+    max-width: 100%;
+}
+
+/* Used to set the background image of the website, darkens it, and makes the image fit to any size screen (responsive). */
+.body_image
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("/static/Paleo Food.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Used to modify the welcome text box on the front page. */
+.white_box
+{
+    background-color: white;
+    color: black;
+    margin: auto;
+    max-width: 800px;
+    padding: .3rem;
+}
+
+/* Used to indicate to a user that an image is clickable. */
+.box-shadow-hover:hover
+{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26), 0 2px 10px 0 rgba(0, 0, 0, 0.22);
+}
+
+/* Used to indicate to a user that an image is clickable. */
+.pointer
+{
+    cursor: pointer;
+}
