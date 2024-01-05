@@ -32,20 +32,20 @@ Pictures of the application are below. Click them for larger versions.
 # Project Files
 The following links contain summary overviews of each file used in the project. Please refer to a file's code directly for specific implementation and details regarding that file.
 
-* [application.py](#application.py)
-* [helpers.py](#helpers.py)
-* [finder.db](#finder.db)
-* [Paleo Food.png](#Paleo-Food.png)
-* [styles.css](#styles.css)
-* [apology.html](#apology.html)
-* [apology_login.html](#apology_login.html)
-* [apology_register.html](#apology_register.html)
-* [layout.html](#layout.html)
-* [login.html](#login.html)
-* [my_recipes.html](#my_recipes.html)
-* [register.html](#register.html)
-* [search_apology.html](#search_apology.html)
-* [search_results.html](#search_results.html)
+* [application.py](#applicationpy)
+* [helpers.py](#helperspy)
+* [finder.db](#finderdb)
+* [Paleo Food.png](#Paleo-Foodpng)
+* [styles.css](#stylescss)
+* [apology.html](#apologyhtml)
+* [apology_login.html](#apology_loginhtml)
+* [apology_register.html](#apology_registerhtml)
+* [layout.html](#layouthtml)
+* [login.html](#loginhtml)
+* [my_recipes.html](#my_recipeshtml)
+* [register.html](#registerhtml)
+* [search_apology.html](#search_apologyhtml)
+* [search_results.html](#search_resultshtml)
 
 ## application.py
 This is the main application file that our API/web framework, Flask, will run from. We too use this file to interact with our
